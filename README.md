@@ -5,11 +5,15 @@
 ## YouTube/Dropbox/Drive Link: https://www.youtube.com/watch?v=n7-1buR-00Y
 
 ## Edit this line: Put a few screenshots of your project here (see deliverables).
-![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/57fcef5a-d729-4417-a7c3-3e1e5cf276db)
-![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/6d15bc97-e578-4fa1-ba66-c42fdae85898)
-![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/896a1882-a32d-45fe-838f-bbc9b55b34f0)
-![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/a8b9125d-34fd-4c69-b179-2664f1feb215)
-![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/8ca97b0b-9cf5-434e-ad58-397de7cc520d)
+![1](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/c8dd2121-fc87-409f-83e7-b8fd410bc661)
+
+![2](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/364220d2-fa20-4d03-a8df-cbf375ae1351)
+
+![3](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/2ab23c5a-a05b-4a5b-8e62-094e60253d2c)
+
+![4](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/fc3ea810-34d7-4378-8687-d6e5c0122a0a)
+
+![5](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/3f179839-a69b-46a8-bb15-e91b9f588973)
 
 * Name and partners name(At most teams of 2 folks total)
   * Team member 1: Dongwook Lee
@@ -17,7 +21,7 @@
 * Did you collaborate or share ideas with any other students/TAs/Professors? Professor
 * Did you use any external resources? 
   * Linear-Speed Vertex Cache Optimisation (Tom Forsyth) - http://eelpi.gotdns.org/papers/fast_vert_cache_opt.html
-  * https://github.com/vivkin/forsyth
+  * Reference hpp - https://github.com/vivkin/forsyth
   * Optimizing the order of indices using the metadata of vertices was very interesting. Also, the fact that modern GPUs' optimization is already well-optimized was another interesting point. This was intriguing because I initially thought the algorithm could actually improve performance, but it did not.
 
 ### Rubric
