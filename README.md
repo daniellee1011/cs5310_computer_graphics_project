@@ -1,23 +1,24 @@
 *TODO*: Please edit the following information in your final project
 
-## Title: Edit this line -- Put your 'title' of your project here
+## Title: Vertex Cache Optimzation
 
-## YouTube/Dropbox/Drive Link: Edit this line -- Put your link to your video(Preferably on YouTube) here (see deliverables).
+## YouTube/Dropbox/Drive Link: https://www.youtube.com/watch?v=n7-1buR-00Y
 
 ## Edit this line: Put a few screenshots of your project here (see deliverables).
-
+![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/57fcef5a-d729-4417-a7c3-3e1e5cf276db)
+![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/6d15bc97-e578-4fa1-ba66-c42fdae85898)
+![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/896a1882-a32d-45fe-838f-bbc9b55b34f0)
+![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/a8b9125d-34fd-4c69-b179-2664f1feb215)
+![image](https://github.com/Fall23Graphics/finalproject-dongwook/assets/40425358/8ca97b0b-9cf5-434e-ad58-397de7cc520d)
 
 * Name and partners name(At most teams of 2 folks total)
-  * Team member 1: *edit this*
-  * Team member 2: *edit this*
-* How many hours did it take you to complete this final project? 
-* Did you collaborate or share ideas with any other students/TAs/Professors?
+  * Team member 1: Dongwook Lee
+* How many hours did it take you to complete this final project? 40 hours
+* Did you collaborate or share ideas with any other students/TAs/Professors? Professor
 * Did you use any external resources? 
-  * Note it is fair to utilize some tutorials--cite them here. You **must** add your own personal touch however!
-  * *edit this*
-  * *edit this*
-  * *edit this*
-  * (Optional) What was the most interesting part of the Final Assignment? How could the instructor improve the final project?
+  * Linear-Speed Vertex Cache Optimisation (Tom Forsyth) - http://eelpi.gotdns.org/papers/fast_vert_cache_opt.html
+  * https://github.com/vivkin/forsyth
+  * Optimizing the order of indices using the metadata of vertices was very interesting. Also, the fact that modern GPUs' optimization is already well-optimized was another interesting point. This was intriguing because I initially thought the algorithm could actually improve performance, but it did not.
 
 ### Rubric
 
